@@ -1,4 +1,4 @@
-﻿# MERN E-Commerce Take-N
+﻿# Take-N
 
 
 ![Course Thumbnail](/thumb.png)
